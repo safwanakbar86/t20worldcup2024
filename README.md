@@ -7,7 +7,7 @@ Included:
   * 20 updated kits used in the event
   * Logos used in the event (flags)
   * 300 faces for all the players in the squads
-  * Accurate lineups for the teams
+  * Accurate lineups for the teams + shirt numbers
   * Updated game menu consisting of players from each country
   * Updated scorecard
   * LED Stumps + Pitchads + Adboards
