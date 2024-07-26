@@ -24,6 +24,6 @@ Requirements:
   * Move the two .ros folders to the "Cricket 07" folder in Documents
   * The "Cricket 07" folder will exist in Documents once the main game is installed
   * The two .ros folders are the roster files consisting of player names + faces + lineups
-  * "T20WC24.ros" has the complete names and "T20WCSN.ros" has those similar to the shirt names used
+  * "T20WC24.ros" has the complete names and "T20WCSN.ros" has those similar to the shirt names
 
 ### Game screenshots and installation to be added
