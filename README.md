@@ -7,12 +7,13 @@ Included:
   * 20 updated kits used in the event
   * Logos used in the event (flags)
   * 300 faces for all the players in the squads
+  * Accurate lineups for the teams
+  * Updated game menu consisting of players from each country
   * LED Stumps + Pitchads + Adboards
-  * Accurate Lineups for the teams
 
 In progress:
   * Stadiums used in West Indies & USA (except Barbados)
   * Accurate fixtures for the world cup in game modes
   * Pre-match + toss + game-pause GUI
 
-### Game screenshots to be added
+### Game screenshots and installation to be added
