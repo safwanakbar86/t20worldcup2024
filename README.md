@@ -1,6 +1,6 @@
 # T20 World Cup 2024 Game
 
-This includes the T20 World Cup 2024 Patch for EA Cricket 07
+This repository contains the T20 World Cup 2024 Patch for EA Cricket 07
 
 Included:
   * 20 participating nations in the recently concluded namesake event
