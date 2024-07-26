@@ -1,6 +1,8 @@
 # ICC T20 World Cup 2024 Game
 
-## This repository contains the T20 World Cup 2024 Patch for EA Cricket 07
+### This repository contains the T20 World Cup 2024 Patch for EA Cricket 07
+
+
 
 Included:
   * 20 participating nations in the recently concluded namesake event
@@ -12,10 +14,14 @@ Included:
   * Updated scorecard
   * LED Stumps + Pitchads + Adboards
 
+
+
 In progress:
   * Stadiums used in West Indies & USA (except Barbados)
   * Accurate fixtures for the world cup in game modes
   * Scorecard text placement
   * Pre-match + toss + game-pause GUI
+
+
 
 ### Game screenshots and installation to be added
