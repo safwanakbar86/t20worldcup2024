@@ -7,11 +7,11 @@
   * USA (Player in the image - Ali Khan)
 
 ## Group B
-  * Australia
-  * England
-  * Oman
-  * Namibia
-  * Scotland
+  * Australia (Player in the image - Mitchell Starc)
+  * England (Player in the image - Jofra Archer)
+  * Oman (Player in the image - Mehran Khan)
+  * Namibia (Player in the image - Ruben Trumpelmann)
+  * Scotland (Player in the image - Chris Sole)
 
 ## Group C
   * Afghanistan
