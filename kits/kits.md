@@ -21,8 +21,8 @@
   * West Indies (Player in the image - Andre Russell)
 
 ## Group D
-  * Bangladesh
-  * Nepal
-  * Netherlands
-  * South Africa
-  * Sri Lanka
+  * Bangladesh (Player in the image - Tanzim Hasan Sakib)
+  * Nepal (Player in the image - Sompal Kami)
+  * Netherlands (Player in the image - Logan van Beek)
+  * South Africa (Player in the image - Gerald Coetzee)
+  * Sri Lanka (Player in the image - Wanindu Hasaranga)
