@@ -14,11 +14,11 @@
   * Scotland (Player in the image - Chris Sole)
 
 ## Group C
-  * Afghanistan
-  * New Zealand
-  * PNG
-  * Uganda
-  * West Indies
+  * Afghanistan (Player in the image - Rashid Khan)
+  * New Zealand (Player in the image - Trent Boult)
+  * PNG (Player in the image - John Kariko)
+  * Uganda (Player in the image - Alpesh Ramjani)
+  * West Indies (Player in the image - Andre Russell)
 
 ## Group D
   * Bangladesh
