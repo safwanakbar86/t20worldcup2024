@@ -1,10 +1,10 @@
 ## Group A
 
-  * Canada
-  * India
-  * Ireland
-  * Pakistan
-  * USA
+  * Canada (Player in the image - Saad Bin Zafar)
+  * India (Player in the image - Jasprit Bumrah)
+  * Ireland (Player in the image - Josh Little)
+  * Pakistan (Player in the image - Naseem Shah)
+  * USA (Player in the image - Ali Khan)
 
 ## Group B
   * Australia
