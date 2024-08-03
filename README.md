@@ -14,7 +14,6 @@ Included:
 
 In progress:
   * Stadiums used in West Indies & USA (except Barbados)
-  * Accurate fixtures for the world cup in game modes
   * Scorecard text placement
   * Pre-match + toss + game-pause GUI
 
