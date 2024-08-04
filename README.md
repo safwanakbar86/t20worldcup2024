@@ -25,4 +25,4 @@ Requirements:
   * The two .ros folders are the roster files consisting of player names + faces + lineups
   * "T20WC24.ros" has the complete names and "T20WCSN.ros" has those similar to the shirt names
 
-#### Note: This patch is entirely self-made. Game screenshots and installation to be added soon.
+#### Note: This patch is entirely self-made. Game installation to be added soon.
