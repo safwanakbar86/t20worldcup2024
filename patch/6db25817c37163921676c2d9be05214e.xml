@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<Root>
+
+	<!--
+		A description of what this file contains.  This file contains a list of bowler ID's who are extra fast bowlers.
+		With these bowlers are two numbers.  
+		
+		The MaxFake is the fastest that they can bowl in miles per hour. This does not affect actual speed
+		in game, just what displays in the overlays.  (this is translated to kilometers per hour if used).
+		
+		The MaxReal is the fastest that they can bowl in meters per second.  This affects the actual in game delivery, but not what
+		shows up in the overlays.
+	/-->
+
+	<Bowler ID ="3892" MaxFake = "95" MaxReal = "42.47"/>	<!-- Harmison-->
+
+	<Bowler ID ="3860" MaxFake = "85" MaxReal = "38.00"/>	<!-- Hoggard-->
+
+	<Bowler ID ="4827" MaxFake = "90" MaxReal = "40.23"/>	<!-- Simon Jones-->
+
+	<Bowler ID ="25679" MaxFake = "90" MaxReal = "40.23"/>	<!-- Flintoff-->
+	
+	<Bowler ID ="15909" MaxFake = "99" MaxReal = "44.26"/>	<!-- Lee-->
+	
+	<Bowler ID ="15484" MaxFake = "95" MaxReal = "42.47"/>	<!-- Tait-->
+	
+	<Bowler ID ="6059" MaxFake = "90" MaxReal = "40.23"/>	<!-- Gillespie-->
+	
+	<Bowler ID ="18858" MaxFake = "83" MaxReal = "37.10"/>	<!-- McGrath-->	
+	
+	<Bowler ID ="28910" MaxFake = "90" MaxReal = "40.23"/>	<!-- Zaheer Khan-->
+	
+	<Bowler ID ="2693" MaxFake = "95" MaxReal = "42.47"/>	<!-- Bond-->
+	
+	<Bowler ID ="4941" MaxFake = "95" MaxReal = "42.47"/>	<!-- Ntini-->	
+	
+	<Bowler ID ="8944" MaxFake = "85" MaxReal = "38.00"/>	<!-- Andre Nel-->
+		
+	<Bowler ID ="26130" MaxFake = "100" MaxReal = "44.70"/>	<!-- Shoaib Akhtar-->
+	
+	<Bowler ID ="22679" MaxFake = "90" MaxReal = "40.23"/>	<!-- NavedulHasan-->
+	
+	<Bowler ID ="22739" MaxFake = "92" MaxReal = "41.13"/>	<!-- Sami-->
+	
+	<Bowler ID ="18296" MaxFake = "85" MaxReal = "38.00"/>	<!-- Vaas-->	
+
+	<Bowler ID ="26458" MaxFake = "90" MaxReal = "40.23"/>	<!-- Malinga-->
+
+	<Bowler ID ="5818" MaxFake = "93" MaxReal = "41.57"/>	<!-- Tino Best-->
+
+	<Bowler ID ="21626" MaxFake = "95" MaxReal = "42.47"/>	<!-- Fidel Edwards-->
+	
+</Root>
